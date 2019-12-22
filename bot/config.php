@@ -3,11 +3,11 @@
 	$bot = '901147654:AAFvjGpdW1I97gCX15R4-Q7dBS2Jo3bh8IQ'; //TOKEN BOT
 
 	define('SUDOS', [
-		0 => '000000', //SUDO ID
-		1 => '111111'
+		0 => '684842099', //SUDO ID
+		1 => '684842099'
 	]);
 
-	define('GRUPO_LOG', -100100100100); //GRUPO LOG
+	define('GRUPO_LOG', -1158807838); //GRUPO LOG
 
 	define('API_BOT', $api . $bot);
 	define('RAIZ', system('pwd') . '/');
